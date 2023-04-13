@@ -6,4 +6,4 @@
 **Технологии:**
 HTML CSS
 
-[**Ссылка GitHub Pages**](https://dmitriyvoronchihin.github.io/russian-travel/)
+[**Ссылка GitHub Pages**](https://dmitriyvoronchihin.github.io/mesto-project/)
