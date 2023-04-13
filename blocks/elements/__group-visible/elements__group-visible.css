@@ -1,0 +1,15 @@
+.elements__group-visible {
+    width: 22px;
+    height: 19px;
+    background-image: url(../../../images/Vector-like.svg);
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.elements__group:checked + .elements__group-visible {
+    background-image: url(../../../images/active_like.svg);
+}
+
+.elements__group:hover + .elements__group-visible {
+    opacity: 0.5;
+}
